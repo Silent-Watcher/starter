@@ -1,5 +1,6 @@
 # Security Policy
-PROJECT is committed to ensuring the security and privacy of its users. 
+
+PROJECT is committed to ensuring the security and privacy of its users.
 This document outlines the security policy for the project, including guidelines, reporting vulnerabilities, and the project's response to security concerns.
 
 ## Supported Versions
@@ -10,7 +11,6 @@ The following table provides information about the currently supported versions 
 | ------- | ------------------ |
 | 1.0.x   | :white_check_mark: |
 | 0.1.x   | :x:                |
-
 
 ## Reporting a Vulnerability
 
@@ -27,6 +27,7 @@ If you discover any security vulnerabilities or potential risks within the PROJE
 5. We kindly request that you refrain from publicly disclosing the vulnerability until we have had sufficient time to address and remediate the issue.
 
 ##Security Response
+
 1. Once a security vulnerability is reported, our security team will review and validate the issue.
 2. We will work diligently to develop a fix or mitigation strategy for the vulnerability.
 3. The fix or mitigation will be implemented in the latest supported version of the project.
@@ -34,15 +35,18 @@ If you discover any security vulnerabilities or potential risks within the PROJE
 5. The security vulnerability will be publicly disclosed, along with the details of the fix, to ensure transparency and awareness among users.
 
 ## Best Practices
+
 To enhance the security of the CLI Word Guessing Game project, we recommend the following best practices:
-- Keep your system and dependencies up to date with the latest security patches.
-- Regularly review and audit the project's dependencies for known vulnerabilities.
-- Use strong and unique passwords for any associated accounts or services.
-- Be cautious when executing third-party scripts or code, as they may pose security risks.
-- Verify the integrity of the project's releases by checking digital signatures or hashes when available.
+
+-   Keep your system and dependencies up to date with the latest security patches.
+-   Regularly review and audit the project's dependencies for known vulnerabilities.
+-   Use strong and unique passwords for any associated accounts or services.
+-   Be cautious when executing third-party scripts or code, as they may pose security risks.
+-   Verify the integrity of the project's releases by checking digital signatures or hashes when available.
 
 ## Conclusion
-the PROJECT project is dedicated to providing a secure and reliable gaming experience. 
+
+the PROJECT project is dedicated to providing a secure and reliable gaming experience.
 By following responsible disclosure practices and collaborating with the security community, we strive to promptly address any security concerns. We appreciate the efforts of researchers and users who contribute to the security of the project.
 
 If you have any further questions or need additional information, please reach out to our security team at alitabatabaee20@gmail.com 😁
