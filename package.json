@@ -1,0 +1,24 @@
+{
+	"name": "starter",
+	"version": "1.0.0",
+	"description": "a template repository",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"prettier": "npx prettier --write ."
+	},
+	"keywords": [],
+	"devDependencies": {
+		"commitizen": "^4.3.0",
+		"cz-conventional-changelog": "^3.3.0",
+		"husky": "^8.0.0",
+		"prettier": "3.0.3"
+	},
+	"config": {
+		"commitizen": {
+			"path": "./node_modules/cz-conventional-changelog"
+		}
+	},
+	"author": "",
+	"license": "ISC"
+}
