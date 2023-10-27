@@ -1,6 +1,6 @@
 {
 	"name": "starter",
-	"version": "1.0.0",
+	"version": "0.0.0",
 	"description": "a template repository",
 	"main": "index.js",
 	"scripts": {
@@ -20,6 +20,6 @@
 			"path": "./node_modules/cz-conventional-changelog"
 		}
 	},
-	"author": "",
-	"license": "ISC"
+	"author": "ali t.nazari <alitabatabaee20@gmail.com>",
+	"license": "MIT"
 }
