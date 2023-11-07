@@ -1,3 +1,4 @@
 # starter
 
-a template repository
+a template repository 
++ you can now use emojis within your commit messages

@@ -12,6 +12,7 @@
 	"devDependencies": {
 		"commitizen": "^4.3.0",
 		"cz-conventional-changelog": "^3.3.0",
+		"cz-gitmoji": "^0.0.7",
 		"husky": "^8.0.0",
 		"prettier": "3.0.3"
 	},
